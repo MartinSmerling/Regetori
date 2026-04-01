@@ -1,0 +1,109 @@
+Martin report sent to martin.smerling@gmail.com on 26.03.2026
+Milla report sent to milla.salomaa@gmail.com on 26.03.2026
+Martin report sent to martin.smerling@gmail.com on 26.03.2026
+Milla report sent to milla.salomaa@gmail.com on 26.03.2026
+Martin report sent to martin.smerling@gmail.com on 26.03.2026
+Milla report sent to milla.salomaa@gmail.com on 26.03.2026
+Martin report sent to martin.smerling@gmail.com on 26.03.2026
+Milla report sent to milla.salomaa@gmail.com on 26.03.2026
+Martin Smerling report sent to martin.smerling@gmail.com on 26.03.2026
+Milla Salomaa report sent to milla.salomaa@gmail.com on 26.03.2026
+ERROR with Martin Smerling: 'Last Name'
+ERROR with Milla Salomaa: 'Last Name'
+Martin  report sent to martin.smerling@gmail.com on 26.03.2026
+Milla  report sent to milla.salomaa@gmail.com on 26.03.2026
+Martin  report sent to martin.smerling@gmail.com on 26.03.2026
+Milla  report sent to milla.salomaa@gmail.com on 26.03.2026
+Martin  report sent to martin.smerling@gmail.com on 26.03.2026
+Milla  report sent to milla.salomaa@gmail.com on 26.03.2026
+Martin  report sent to martin.smerling@gmail.com on 26.03.2026
+Milla  report sent to milla.salomaa@gmail.com on 26.03.2026
+ERROR with Martin: 'Feedback'
+ERROR with Milla: 'Feedback'
+ERROR with Martin: 'ReportID'
+ERROR with Milla: 'ReportID'
+Martin report sent to martin.smerling@gmail.com on 26.03.2026
+Milla report sent to milla.salomaa@gmail.com on 26.03.2026
+Martin report sent to martin.smerling@gmail.com on 26.03.2026
+Milla report sent to milla.salomaa@gmail.com on 26.03.2026
+ERROR with Martin: name 'score_int' is not defined
+ERROR with Milla: name 'score_int' is not defined
+ERROR with Martin: name 'feedback' is not defined
+ERROR with Milla: name 'feedback' is not defined
+ERROR with Martin: name 'replace_text' is not defined
+ERROR with Milla: name 'replace_text' is not defined
+Martin report sent to martin.smerling@gmail.com on 26.03.2026
+ERROR with Martin: 'Score'
+ERROR with Milla: 'Score'
+ERROR with Name                            Martin
+LastName                      Smerling
+Email        martin.smerling@gmail.com
+StudentID                      2413207
+Course                      Robotiikka
+Name: 0, dtype: object: 'Score'
+ERROR with Name                           Milla
+LastName                     Salomaa
+Email        milla.salomaa@gmail.com
+StudentID                    2412865
+Course                    Robotiikka
+Name: 1, dtype: object: 'Score'
+ERROR with Name                            Martin
+LastName                      Smerling
+Email        martin.smerling@gmail.com
+StudentID                      2413207
+Course                      Robotiikka
+Name: 0, dtype: object: name 'score' is not defined
+ERROR with Name                           Milla
+LastName                     Salomaa
+Email        milla.salomaa@gmail.com
+StudentID                    2412865
+Course                    Robotiikka
+Name: 1, dtype: object: name 'score' is not defined
+ERROR with Name                            Martin
+LastName                      Smerling
+Email        martin.smerling@gmail.com
+StudentID                      2413207
+Course                      Robotiikka
+Name: 0, dtype: object: 'Score'
+ERROR with Name                           Milla
+LastName                     Salomaa
+Email        milla.salomaa@gmail.com
+StudentID                    2412865
+Course                    Robotiikka
+Name: 1, dtype: object: 'Score'
+ERROR with Name                            Martin
+LastName                      Smerling
+Email        martin.smerling@gmail.com
+StudentID                      2413207
+Course                      Robotiikka
+Name: 0, dtype: object: 'Score'
+ERROR with Name                           Milla
+LastName                     Salomaa
+Email        milla.salomaa@gmail.com
+StudentID                    2412865
+Course                    Robotiikka
+Name: 1, dtype: object: 'Score'
+Martin Smerling report sent on 26.03.2026
+Milla Salomaa report sent on 26.03.2026
+ERROR with Name                            Martin
+LastName                      Smerling
+Email        martin.smerling@gmail.com
+StudentID                      2413207
+Score                               91
+Course                      Robotiikka
+Name: 0, dtype: object: name 'lastname' is not defined
+ERROR with Name                           Milla
+LastName                     Salomaa
+Email        milla.salomaa@gmail.com
+StudentID                    2412865
+Score                             92
+Course                    Robotiikka
+Name: 1, dtype: object: name 'lastname' is not defined
+ERROR row 0: (334, b'UGFzc3dvcmQ6')
+ERROR row 1: (334, b'UGFzc3dvcmQ6')
+Martin Smerling report sent on 26.03.2026
+Milla Salomaa report sent on 26.03.2026
+Martin report sent to martin.smerling@gmail.com on 26.03.2026
+Milla report sent to milla.salomaa@gmail.com on 26.03.2026
+Martin report sent to martin.smerling@gmail.com on 26.03.2026
+Milla report sent to milla.salomaa@gmail.com on 26.03.2026
